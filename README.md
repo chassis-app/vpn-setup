@@ -10,17 +10,37 @@ https://github.com/shadowsocks/shadowsocks-windows/releases <--- for Windows
 
 https://github.com/shadowsocks/ShadowsocksX-NG/releases <--- for Mac
 
-## 3. Extract the ZIP file and run Shadowsocks.exe
+## 3. Extract the ZIP / DMG file and run Shadowsocks.exe
 ![image](https://github.com/user-attachments/assets/b0bbd2cf-ce5d-497e-831d-a1486da02c68)
 
+For Mac you may face error loading the app as the app is unsigned.
+![image](https://github.com/user-attachments/assets/0430de74-9a80-4851-8b37-39af3963792d)
+
+In this case Go to System Settings > Privacy and Security, scroll down
+![image](https://github.com/user-attachments/assets/ea5f41ea-9fba-4c68-82a1-9de6613d0ec0)
+Click "Open Anyway"
 
 ## 4. Open Shadowsocks menu
 When Shadowsocks is running, locate it in the system tray at the bottom right of your screen, and right click the app icon to open its menu
-
+For Windows:
 ![image](https://github.com/user-attachments/assets/93871f3a-81ed-4709-86c0-3cbbb0294700)
 
+For Mac:
+![image](https://github.com/user-attachments/assets/38af41f8-b5ef-46ca-adff-b7d4918ce33d)
+
+
 ## 5. Enable “Start on Boot” and “Associate ss:// Links”.
+For Windows
 ![image](https://github.com/user-attachments/assets/6b85afbf-f1cc-4a9b-a43f-7889dbe4b6e6)
+
+For Mac, choose Preference from dropdown menu, tick Launch at Login
+![image](https://github.com/user-attachments/assets/8254e9df-8d7f-423d-b951-191b03ecba59)
+![image](https://github.com/user-attachments/assets/0a062c86-c225-465a-a254-92655ef6f2d1)
+
+Then import server URL:
+![image](https://github.com/user-attachments/assets/2bda01ba-b81a-4939-89aa-50409651f197)
+
+
 
 ## 6. Hover to "System Proxy" and choose "PAC". 
 (Avoid Global, it will direct all traffic thru proxy which is slow)
