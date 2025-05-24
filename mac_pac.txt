@@ -1,0 +1,9 @@
+||whatismyipaddress.com
+||anthropic.com
+||claude.ai
+||modelcontextprotocol.io
+||anthropic-cdn.com
+||notebooklm.google.com
+||aistudio.google.com
+||jules.google.com
+||labs.google.com
