@@ -8,3 +8,4 @@
 ||jules.google.com
 ||labs.google.com
 ||stitch.withgoogle.com
+||ansible.bsoltec.com
